@@ -8,7 +8,7 @@
 
 ## Back End Developer
 
-Hello, my name is Matias. I'm 30 years old, and Im living in Buenos Aires, Argentina. I am a Full Stack Developer. I am motivated by understanding the user and providing design and navigability solutions directly from the code. I have a solid foundation in backend technologies such as Node.js, Express, and Sequelize, and from the Front End i have knologe on Tailwind, Bootstrap, React JS, Redux, and a little of React Native.
+Hello, my name is Matías. I'm 30 years old, and I live in Buenos Aires, Argentina. I am a Full Stack Developer. I am motivated by understanding the user and providing design and navigability solutions directly through code. I have a solid foundation in backend technologies such as Node.js, Express, and Sequelize, and on the frontend, I have knowledge of Tailwind, Bootstrap, React JS, Redux, and a bit of React Native..
 <br/>
 
 ### A Few Quick Facts About Me
@@ -22,7 +22,7 @@ Hello, my name is Matias. I'm 30 years old, and Im living in Buenos Aires, Argen
 
 ### Where am I heading?
 
-My main goal is to become a true professional in the programming world, focusing primarily on Backt-end, which is what I am most passionate about. Undoubtedly, the journey ahead will involve embracing new technologies, and the process of continuous ideation will be unceasing. Follow me in this adventure!
+My main goal is to become a true professional in the programming world, focusing primarily on Backend development, which is my greatest passion. Undoubtedly, the journey ahead will involve embracing new technologies, and the process of continuous ideation will be unceasing. Join me on this adventure!
 
 ---
 
